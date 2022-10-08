@@ -2,7 +2,7 @@
 The Fourth Project in my portfolio. This one is pretty simple too with CSS and HTML, but it is showing how to did good site.<br>
 <br><br>
 
-FOURTH PROJECT: <br>
+FOURTH PROJECT: <br><br>
 1. I learned how to connect another cards to make website more active.<br>
 2. I learned how to properly use components on site to look good for user.<br>
 3. Learned a lot of CSS knowledge.<br>
