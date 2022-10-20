@@ -13,6 +13,6 @@ FOURTH PROJECT: <br><br>
 ![Zrzut ekranu (6)](https://user-images.githubusercontent.com/99299154/194665794-09e37ce5-0d0e-434d-893d-6948767b7d47.png)
 <br><br><br>
 SUMMARY -> FOURTH PROJECT <br>
-<br>
+<br><br>
 This project showed some new things that I will bring to my next projects (this commercial and not commercial).<br>
 As I wrote before, this was very simple project, but that learned me very important thing to remember for future.
