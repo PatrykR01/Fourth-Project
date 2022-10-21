@@ -15,4 +15,4 @@ FOURTH PROJECT: <br><br>
 SUMMARY -> FOURTH PROJECT <br>
 <br><br>
 This project showed some new things that I will bring to my next projects (this commercial and not commercial).<br>
-As I wrote before, this was very simple project, but that learned me very important thing to remember for future.
+As I wrote before, this was very simple project, but that learned me very important thing to remember for future.<br>
