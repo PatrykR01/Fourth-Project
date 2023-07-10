@@ -19,4 +19,4 @@ As I wrote before, this was very simple project, but that learned me very import
 <br>
 <br>
 If You want find my new projects that thet will show on my profile, come to Repositories section on my profile. <br>
-More projects will be realese on december. 
+More projects will be realese on december. <br>
